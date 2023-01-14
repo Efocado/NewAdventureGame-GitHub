@@ -1,0 +1,41 @@
+Jam Berapa Mall ini Buka...
++9
++10
++11
++12
++B
+
+#Ejaan Bahasa Inggris yang Benar dari Kata Rumah...
++house
++hose
++huse
++ouse
++A
+
+#Proses Hujan Terdiri dari...
++air naik, air jadi es, es meleleh, air turun
++evaporasi, kondensasi, presipitasi
++air jadi gas, gas jadi es, es jadi air
++bukan dari salah satu yang di atas
++B
+
+#Di Bawah Ini Mana Kah Ejaan Bahasa Ingris Yang Tidak Benar...
++heare
++here
++ear
++hear
++A
+
+#Siapakah Nama Presiden RI ke 4...
++Abdurrahman Wahid
++Bacharuddin Jusuf Habibie
++Megawati Soekarnoputri
++Soeharto
++A
+
+#Apakah Warna Bendera Kebangsaan Indonesia...
++Putih
++Hijau
++Merah Putih
++Putih Merah
++C
