@@ -20,4 +20,6 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Question.unity
     guid: a43adb15c6cde664f801f31f51f59708
-  m_configObjects: {}
+  m_configObjects:
+    UnityEditor.XR.ARCore.ARCoreSettings: {fileID: 11400000, guid: 4e2ccee8fe9912f47bec6d35094f7d57, type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 17c3c448bacb13c44b06f777dea8910d, type: 2}
