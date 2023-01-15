@@ -1112,7 +1112,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: Price List
+  m_Text: Prize List
 --- !u!222 &2104593552
 CanvasRenderer:
   m_ObjectHideFlags: 0
